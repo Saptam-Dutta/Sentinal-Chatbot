@@ -30,7 +30,7 @@ scripts/
 requirements.txt
 README.md
 
-## 🛠️ Installation
+## 🛠️ Installation(Dont Check the preview goto CODE TAB)
 
 1. Clone this repo
    Terminal:
